@@ -1,3 +1,10 @@
+[![Packagist Version](https://img.shields.io/packagist/v/lelyfoto/mypos-cashregisterremote?label=current+versuin)](https://packagist.org/packages/lelyfoto/mypos-cashregisterremote)
+[![Packagist PHP Version](https://img.shields.io/packagist/dependency-v/lelyfoto/mypos-cashregisterremote/php)](https://php.net/)
+[![MyPos Cash Register Remote API](https://img.shields.io/badge/MyPos%20Cash%20Register%20Remote%20API-3.0-blue)](https://developers.mypos.com/en/doc/in_person_payments/v1_0/356-cash-register-remote-api)
+[![License](https://img.shields.io/github/license/lelyfoto/mypos-cashregisterremote)](https://github.com/lelyfoto/mypos-cashregisterremote/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/lelyfoto/mypos-cashregisterremote)](https://github.com/lelyfoto/mypos-cashregisterremote/issues)
+[![Packagist Downloads](https://img.shields.io/packagist/dt/lelyfoto/mypos-cashregisterremote?color=green)](https://packagist.org/packages/lelyfoto/mypos-cashregisterremote)
+
 # Cash Register Remote API implementation for MyPos
 
 This is a simple PHP implementation of the MyPos Cash Register Remote API as described 
